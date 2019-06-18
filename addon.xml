@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.dirtywaterbrewing" name="DWB Repository" version="1.0" provider-name="Dirty Water Brewing">
+	<extension point="xbmc.addon.repository" name="DWB Repository">
+		<info compressed="false">https://raw.githubusercontent.com/Dirtywaterbrewing/Addons/master/addons.xml</info>
+		<checksum>ttps://raw.githubusercontent.com/Dirtywaterbrewing/Addons/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/Dirtywaterbrewing/Addons/raw/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Dirty Water Brewing Custom Kodi Builds</summary>
+		<description>DWB Builds</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
